@@ -1,0 +1,11 @@
+{
+    "name": "maxa11an/processwire-inputfield-ace-extended",
+    "type": "pw-module",
+    "authors": [
+        {
+            "name": "Max Allan Niklasson",
+            "email": "hello@maxallan.dev"
+        }
+    ],
+    "require": {}
+}
