@@ -8,5 +8,8 @@
             "email": "hello@maxallan.dev"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files": "InputfieldAceExtended.module"
+    }
 }
